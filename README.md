@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @peppy1698
+- 👋 Hi, I’m Preethi
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on ...
