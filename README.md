@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Preethi
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React
 - 📫 How to reach me peppy1698@gmail.com
 
 <!---
